@@ -80,8 +80,6 @@ class MSucciniciproducens_anae:
             fc=np.random.randint(0,10)
             fc=fc/17
         if self.Control == True :
-            #Cardinal temperature model with inflection: Salvado et al 2011 "Temperature Adaptation Markedly Determines Evolution within the Genus Saccharomyces"
-            #Strain S. cerevisiae PE35 M
             Topt = 30
             Tmax = 45.48
             Tmin = 5.04 
