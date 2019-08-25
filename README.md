@@ -1,18 +1,19 @@
 
-# Fermentation mechanistic models
+# FermProc
+Welcome to FermProc library that collects some of the models inside FermProc software implemented and solved in Python
 
-##Mechanistics models for Fermentation
+## Mechanistics models for Fermentation
 
 Along their benefits, mechanistic models:
-· Summary of knowledge about the process
-· Possibility to try different scenarios
+· Summary of knowledge about the process.
+· Possibility to try different scenarios.
 
-##Implementation of a fermentation mechanistic model 
+## Implementation of a fermentation mechanistic model 
 
 In order to create a template, we follow the next steps:
  1. Create a class.
   1.1 Initialize variables, constants, and parameters.
-  1.2 Create a process
+  1.2 Create a process matrix in which it is enclosed the kinetic reaction.
 
 In this repository, you can find different models for the aerobic or anaerobic growth of microorganisms.
 The models are implemented as an object and they are based on determistic principles.
