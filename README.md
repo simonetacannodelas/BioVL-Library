@@ -11,8 +11,10 @@ Along their benefits, mechanistic models:
 ## Implementation of a fermentation mechanistic model 
 
 In order to create a template, we follow the next steps:
- 1. Create a class.////
+ 1. Create a class.
+ 
   1.1 Initialize variables, constants, and parameters.
+  
   1.2 Create a process matrix in which it is enclosed the kinetic reaction.
 
 In this repository, you can find different models for the aerobic or anaerobic growth of microorganisms.
