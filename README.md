@@ -5,7 +5,9 @@ Welcome to FermProc library that collects some of the models inside FermProc sof
 ## Mechanistics models for Fermentation
 
 Along their benefits, mechanistic models:
+
 · Summary of knowledge about the process.
+
 · Possibility to try different scenarios.
 
 ## Implementation of a fermentation mechanistic model 
