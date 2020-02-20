@@ -1,6 +1,6 @@
 
-# FermProc
-Welcome to FermProc library that collects some of the models inside FermProc software implemented and solved in Python
+# BioVL
+Welcome to BioVL library that collects some of the models inside FermProc software implemented and solved in Python
 
 ## Mechanistics models for Fermentation
 
