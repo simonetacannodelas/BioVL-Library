@@ -1,6 +1,12 @@
+#This is the function to add perturbations inside a mechanistic model with concentrations
+
 #import the model
 
 def disturbances(modelInUse):
+  modelInUse.solve()
+  t = modelInUse.solve()[0]
+  C= modelInUse.solve()[1]
+
   #Initialization of the vectors for the superposition of the perturbations
   PV =[]
   PV2 = []
