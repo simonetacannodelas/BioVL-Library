@@ -1,6 +1,6 @@
 
-# Minerva
-Welcome to Minerva - the BioVL library that collects some of the models inside FermProc software implemented and solved in Python.
+# NyctiDB
+Welcome to NyctiDB - the BioVL library that collects some of the models inside FermProc software implemented and solved in Python.
 ![logo_minerva](https://user-images.githubusercontent.com/51289658/121901186-775d8100-cd26-11eb-8afd-37f77fe883ea.png)
 
 ## Mechanistics models for Fermentation
